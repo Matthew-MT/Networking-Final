@@ -5,6 +5,7 @@
 namespace game {
     class ScrollingMap {
     private:
+        matrix<int> tileMap;
     public:
         ScrollingMap(sf::Vector2u dim);
     };

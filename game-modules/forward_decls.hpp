@@ -2,5 +2,5 @@
 #include <vector>
 
 namespace game {
-    typedef std::vector<std::vector<int>> matrix;
+    template<typename T> class matrix : public std::vector<std::vector<T>> {};
 };
