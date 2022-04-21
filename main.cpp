@@ -1,5 +1,5 @@
 #include "sfml-ui/main.hpp"
-#include <everything>
+// #include <everything>
 
 #define SFML_STATIC
 
