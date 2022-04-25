@@ -1,4 +1,4 @@
 [submodule "sfml-ui"]
+	branch = latest
 	path = sfml-ui
 	url = https://github.com/Matthew-MT/sfml-ui.git
-	branch = latest
