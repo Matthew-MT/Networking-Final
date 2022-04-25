@@ -23,6 +23,6 @@ namespace game {
     public:
         ScrollingMap(sf::Vector2u dim);
 
-        matrix<Tile> loadScreen() {}
+        matrix<Tile> loadScreen();
     };
 };
